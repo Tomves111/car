@@ -12,6 +12,8 @@ The application is based from two main files index.html and script app.js
 
 You can download files in zip format.
 
+Install node.js into your system.
+
 Then you open your text editor and in command line write "npm install" and "npm start"  and server should started.
 In case if not open your node.js command line in directory with folder and write "node app.js"
 
