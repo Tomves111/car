@@ -15,6 +15,6 @@ You can download files in zip format.
 Then you open your text editor and in command line write "npm install" and "npm start"  and server should started.
 In case if not open your node.js command line in directory with folder and write "node app.js"
 
-Or lets try the app now on this link: https://tomves.github.io/car
+Or lets try the app now on this link: https://tomves111.github.io/car
 
 
